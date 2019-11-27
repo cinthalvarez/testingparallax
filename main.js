@@ -101,7 +101,7 @@ var layer_list = [
 },
 {
 'image': sombrabotella,
-'src': 'https://github.com/cinthalvarez/testingparallax/blob/master/images/sombrabotella.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/sombrabotella.png',
 'z_index': 0.5,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
