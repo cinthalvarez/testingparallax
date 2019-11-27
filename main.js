@@ -36,7 +36,7 @@ var firma = new Image();
 var layer_list = [
 {
 'image': fondo,
-'src': './fondo.png',
+'src': 'fondo.png',
 'z_index': -3,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -44,7 +44,7 @@ var layer_list = [
 },
 {
 'image': florfondo,
-'src': './florfondo.png',
+'src': 'florfondo.png',
 'z_index': -2.5,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -52,7 +52,7 @@ var layer_list = [
 },
 {
 'image': florarriba,
-'src': './florarriba.png',
+'src': 'florarriba.png',
 'z_index': -2,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -60,7 +60,7 @@ var layer_list = [
 },
 {
 'image': sombrachica,
-'src': './sombrachica.png',
+'src': 'sombrachica.png',
 'z_index': -1.5,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -68,7 +68,7 @@ var layer_list = [
 },
 {
 'image': chica,
-'src': './chica.png',
+'src': 'chica.png',
 'z_index': -1,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -76,7 +76,7 @@ var layer_list = [
 },
 {
 'image': brillos2,
-'src': './brillos2.png',
+'src': 'brillos2.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -84,7 +84,7 @@ var layer_list = [
 	},
 {
 'image': sombraflorabajo,
-'src': './sombraflorabajo.png',
+'src': 'sombraflorabajo.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -93,7 +93,7 @@ var layer_list = [
 
 {
 'image': florabajo,
-'src': './florabajo.png',
+'src': 'florabajo.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -101,7 +101,7 @@ var layer_list = [
 },
 {
 'image': sombrabotella,
-'src': './sombrabotella.png',
+'src': 'sombrabotella.png',
 'z_index': 0.5,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -110,7 +110,7 @@ var layer_list = [
 
 {
 'image': botella,
-'src': './botella.png',
+'src': 'botella.png',
 'z_index': 1,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -118,7 +118,7 @@ var layer_list = [
 },
 {
 'image': brillos,
-'src': './brillos.png',
+'src': 'brillos.png',
 'z_index': 2,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -126,7 +126,7 @@ var layer_list = [
 	},
 {
 'image': firma,
-'src': './firma.png',
+'src': 'firma.png',
 'z_index': 2,
 'position': {x: 0, y: 0},
 'blend': null,
