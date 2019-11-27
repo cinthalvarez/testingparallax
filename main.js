@@ -36,7 +36,7 @@ var firma = new Image();
 var layer_list = [
 {
 'image': fondo,
-'src': './images/fondo.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/fondo.png',
 'z_index': -3,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -44,7 +44,7 @@ var layer_list = [
 },
 {
 'image': florfondo,
-'src': './images/florfondo.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/florfondo.png',
 'z_index': -2.5,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -52,7 +52,7 @@ var layer_list = [
 },
 {
 'image': florarriba,
-'src': './images/florarriba.png',
+'src': 'https://raw.githubusercontent.com/cinthalvarez/testingparallax/master/images/florarriba.png',
 'z_index': -2,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -60,7 +60,7 @@ var layer_list = [
 },
 {
 'image': sombrachica,
-'src': './images/sombrachica.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/sombrachica.png',
 'z_index': -1.5,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -68,7 +68,7 @@ var layer_list = [
 },
 {
 'image': chica,
-'src': './images/chica.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/chica.png',
 'z_index': -1,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -76,7 +76,7 @@ var layer_list = [
 },
 {
 'image': brillos2,
-'src': './images/brillos2.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/brillos2.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -84,7 +84,7 @@ var layer_list = [
 	},
 {
 'image': sombraflorabajo,
-'src': './images/sombraflorabajo.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/sombraflorabajo.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -93,7 +93,7 @@ var layer_list = [
 
 {
 'image': florabajo,
-'src': './images/florabajo.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/florabajo.png',
 'z_index': 0,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -101,7 +101,7 @@ var layer_list = [
 },
 {
 'image': sombrabotella,
-'src': './images/sombrabotella.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/blob/master/images/sombrabotella.png',
 'z_index': 0.5,
 'position': {x: 0, y: 0},
 'blend': 'multiply',
@@ -110,7 +110,7 @@ var layer_list = [
 
 {
 'image': botella,
-'src': './images/botella.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/botella.png',
 'z_index': 1,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -118,7 +118,7 @@ var layer_list = [
 },
 {
 'image': brillos,
-'src': './images/brillos.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/brillos.png',
 'z_index': 2,
 'position': {x: 0, y: 0},
 'blend': null,
@@ -126,7 +126,7 @@ var layer_list = [
 	},
 {
 'image': firma,
-'src': './images/firma.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/firma.png',
 'z_index': 2,
 'position': {x: 0, y: 0},
 'blend': null,
