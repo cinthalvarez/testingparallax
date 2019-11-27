@@ -52,7 +52,7 @@ var layer_list = [
 },
 {
 'image': florarriba,
-'src': 'https://raw.githubusercontent.com/cinthalvarez/testingparallax/master/images/florarriba.png',
+'src': 'https://github.com/cinthalvarez/testingparallax/raw/master/images/florarriba.png',
 'z_index': -2,
 'position': {x: 0, y: 0},
 'blend': null,
